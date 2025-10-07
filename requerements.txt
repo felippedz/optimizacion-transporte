@@ -1,0 +1,7 @@
+sympy
+numpy
+matplotlib
+pandas
+openpyxl
+
+pip install sympy numpy matplotlib pandas openpyxl
